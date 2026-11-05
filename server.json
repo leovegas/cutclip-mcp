@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "one.cutclip/cutclip",
+  "title": "CutClip.one",
+  "description": "AI video editor your agent can drive: plan scenes, edit a multi-track timeline, and render MP4s.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.cutclip.one",
+  "repository": {
+    "url": "https://github.com/leovegas/cutclip-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cutclip.one/api/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer sfs_... personal token. Create one at https://www.cutclip.one (Settings → Connect an AI client). Free credits on signup.",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
