@@ -6,6 +6,10 @@ Connect Claude Code, Codex, Cursor, Windsurf or any MCP client to [CutClip.one](
 then **plan a film, cut it on a multi-track timeline and render the MP4**. Every change goes through the same
 tools as the editor itself, so you can open the project in the browser, see what the agent did, and undo any step.
 
+![A tour of www.cutclip.one: MCP setup for Claude Code, Codex and Cursor, the editor, and what it can do](demo.gif)
+
+*A quick tour of [www.cutclip.one](https://www.cutclip.one): copy-ready MCP setup for Claude Code, Codex and Cursor, the editor, and the feature list.*
+
 - 🌐 Website: https://www.cutclip.one
 - 🔌 MCP endpoint: `https://cutclip.one/api/mcp` (streamable HTTP, hosted, nothing to install)
 - 📇 Official MCP Registry: [`one.cutclip/cutclip`](https://registry.modelcontextprotocol.io/v0/servers?search=one.cutclip)
