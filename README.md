@@ -29,7 +29,7 @@ tools as the editor itself, so you can open the project in the browser, see what
 | **Rendering** | Preview and final renders (up to 4K, several aspect ratios, H.264/H.265), status polling and a signed download link |
 | **History & credits** | Undo any change; check your credit balance and usage history |
 
-110+ tools in total. One personal token covers all of them, and it only ever sees your own projects.
+111 tools in total. One personal token covers all of them, and it only ever sees your own projects.
 
 ## Quick start
 
